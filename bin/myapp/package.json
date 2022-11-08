@@ -1,0 +1,8 @@
+{
+	"name": "myapp",
+	"version": "0.0.1",
+	"private": true,
+	"author": "xjl",
+	"description": "a cli demo",
+	"dependencies": {}
+}
